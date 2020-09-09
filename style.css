@@ -1,0 +1,26 @@
+body,
+html {
+	font-size: 10px;
+	font-family: "Arial";
+}
+
+*,
+*:after,
+*:before {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	min-height: 100vh;
+	background-color: #686868;
+
+	padding-top: 10rem;
+}
+
+.title {
+	text-align: center;
+	font-size: 4rem;
+	color: #fff;
+}
