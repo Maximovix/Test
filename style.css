@@ -24,3 +24,11 @@ html {
 	font-size: 4rem;
 	color: #fff;
 }
+
+.text {
+	text-align: center;
+	font-size: 2rem;
+	color: #fff;
+
+	margin-top: 2rem;
+}
