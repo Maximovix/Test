@@ -32,3 +32,7 @@ html {
 
 	margin-top: 2rem;
 }
+
+.wrong {
+	color: red;
+}
