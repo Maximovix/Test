@@ -38,3 +38,9 @@ html {
 	font-size: 1rem;
 	font-weight: 500;
 }
+
+.about {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
